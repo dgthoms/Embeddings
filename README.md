@@ -1,6 +1,10 @@
 # Embeddings
 A repository for some files related to embeddings
 
+Files: 
+* README.md - this file
+* 2019-TIMC-Embeddings-shareable.pdf - a .pdf of my Jan 13, 2020 talk to the West Point Network Science Centre
+* Viz-UMAP.ipynb - A simple example showing interactive visualizations of a UMAP projection of sklearn digits data with mouseover
 
 ## Getting started
 For basic usage, you can simply 
